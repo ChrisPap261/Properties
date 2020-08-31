@@ -1,4 +1,4 @@
-# Properties
+# PropertiesCRUD
 
 ## Brief
 This application is a PHP & MySQL CRUD system designed to create, update and delete properties in the database. 
